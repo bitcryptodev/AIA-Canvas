@@ -1,0 +1,9 @@
+<svg width="103" height="102" viewBox="0 0 103 102" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background with rounded corners -->
+  <rect x="1" y="1" width="101" height="100" rx="20" fill="#282c34"/>
+  
+  <!-- Stylized geometric shapes -->
+  <polygon points="51.5,20 70,50 51.5,80 33,50" fill="#61dafb"/>
+  <circle cx="51.5" cy="50" r="15" fill="#ffffff"/>
+  
+</svg>
